@@ -1,4 +1,4 @@
-chrome-extension-ToRead-later
+ToRead - Chrome Extension
 =============================
 
 Python's chrome extension
